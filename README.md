@@ -16,8 +16,4 @@ Aprite la cartella 📂 del vostro Web Server (htdocs se usate XAMPP) e inizate 
 
 ## 🧑‍💻 Crediti
 
-<<<<<<< HEAD
 Questo template è stato realizzato da [**roby8martin 🧑‍💻**](https://github.com/roby8martin/starter-template) for dewelopers🧑‍💻.
-=======
-Questo template è stato realizzato da [**roby8martin 🧑‍💻**](https://github.com/roby8martin/starter-template) for developers🧑‍💻.
->>>>>>> af8996958e78a26e1dd5c5d9b7ddda983ef8d9ee
